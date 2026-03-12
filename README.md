@@ -22,3 +22,7 @@ Tools used:
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+
+Bases de datos relacionales y no relacionales.
+Relacionales de caracter SQL trabajan de manera vertical y garantiza integridad de datos
+NOSQL es horizontal, es decir que da prioridad a la eficiencia de funcionamiento
